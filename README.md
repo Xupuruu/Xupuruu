@@ -2,7 +2,6 @@
 <h1 align="center"><strong>🦋Uche Sopuru🦋</strong></h1>
 <h3 align="center">Data Analyst • BI Specialist • Financial Analyst</h3>
 
----
 
 ## ✨ About Me  
 I am a **Data Analyst** who loves turning messy data into meaningful insights that drive smart decisions.  
@@ -10,7 +9,6 @@ Passionate about **analytics, dashboard building, data storytelling, and continu
 I enjoy using data to create clarity, direction, and business value.  
 Always curious. Always learning. Always improving. 🚀
 
----
 
 ## 🧠 Skills & Expertise  
 
@@ -19,7 +17,6 @@ Always curious. Always learning. Always improving. 🚀
 - Creating interactive dashboards that support decision-making  
 - Identifying patterns, trends, and opportunities  
 
----
 
 ### 🛠️ **Technical Tools I Use**
 <p align="left">
@@ -44,7 +41,6 @@ Always curious. Always learning. Always improving. 🚀
 
 </p>
 
----
 
 ## 📚 Currently Learning  
 - Machine Learning fundamentals  
@@ -53,7 +49,6 @@ Always curious. Always learning. Always improving. 🚀
 - Data Science workflows  
 - Advanced dashboard storytelling techniques  
 
----
 
 ## 🚧 Projects Showcase  
 
@@ -68,37 +63,41 @@ It features an interactive dashboard allowing real time monitoring, smart handli
 ![Excel Project](https://github.com/Xupuruu/Xupuruu/raw/main/Screenshot%202025-06-26%20121226.png)  
 **Repo:** [View on GitHub](https://github.com/Xupuruu/Xupuruu)
 
----
 
-### 🔹 **Project Title #2**
+### 🔹 **Serenity Retail**
 **Description:**  
 Serenity Retail is a nationwide leading retail chain that offers a diverse range of products, they face a challenge to understand and target their customers with personalized marketing campaigns.
 
 **Tools:** Microsoft Power BI  
 **Preview:**  
-![Power BI Project](https://raw.githubusercontent.com/Xupuruu/Xupuruu/8ac699696ba670906220c1a5f375033fb33f6dfc/Screenshot%202024-09-22%20235354.png)
-  
+![Project Screenshot](https://raw.githubusercontent.com/Xupuruu/Xupuruu/4578321dd975cf3b83f3b8c20366f67449296e55/Screenshot%202024-06-24%20161059.png)  
+
 **Repo:** [View on GitHub](https://github.com/Xupuruu/Xupuruu)
 
----
 
-### 🔹 **Project Title #3**
+### 🔹 **Federal Account Allocation Committee**
 **Description:**  
-Highlight data cleaning, modeling, visualization, or automation features.
+he Federal Account Allocation Committee (FAAC) plays a critical role in ensuring the equitable distribution of Nigeria’s federal revenue to states and local governments.
+By overseeing fund allocation, managing deductions, and collaborating with the Central Bank of Nigeria for disbursements, FAAC ensures that resources are distributed according to the revenue-sharing formula. Their commitment to transparency is vital for the financial stability of states and local governments, allowing them to carry out essential services.
 
-**Tools:** Python / Power BI / Tableau  
-**Repo:** `[link-here]`
+**Tools:** Microsoft Excel  
+**Preview:**  
+![Project Screenshot](https://raw.githubusercontent.com/Xupuruu/Xupuruu/8ac699696ba670906220c1a5f375033fb33f6dfc/Screenshot%202024-09-22%20235354.png)
 
----
+**Repo:** [View on GitHub](https://github.com/Xupuruu/Xupuruu)
 
-### 🔹 **Project Title #4**
+
+### 🔹 **Global Gaming Market**
 **Description:**  
-Write a short description here.
+The gaming industry has evolved significantly over the years, with data-driven insights highlighting key trends in sales, platform and genre.
+This analysis provides a comprehensive overview of the global gaming market from 1981 to 2020.
 
-**Tools:**  
-**Repo:** `[link-here]`
+**Tools:** Microsoft Power BI  
+**Preview:**  
+![Project Screenshot](https://raw.githubusercontent.com/Xupuruu/Xupuruu/ccfde9e1936b0c7091f3be1e0371d3649a9a28ae/Screenshot%202025-01-01%20022416.png)  
 
----
+**Repo:** [View on GitHub](https://github.com/Xupuruu/Xupuruu)
+
 
 ## 📈 GitHub Analytics  
 <div align="center">
@@ -109,7 +108,6 @@ Write a short description here.
 
 </div>
 
----
 
 ## 💬 Let’s Connect  
 <p align="left">
