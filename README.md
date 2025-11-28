@@ -56,23 +56,29 @@ Always curious. Always learning. Always improving. 🚀
 ---
 
 ## 🚧 Projects Showcase  
-*(Fill these later — clean placeholders already formatted for you)*
 
-### 🔹 **Project Title #1**
+### 🔹 **Budget Tracker**
 **Description:**  
-A short 1–2 sentence overview of what the project does and the insight it delivers.
+Just completed a comprehensive personal budget tracker in Microsoft Excel that goes beyond basic tracking. It captures income, expenses, and savings while comparing actual performance against targeted budgets📊
 
-**Tools:** Power BI / SQL / Tableau / Python  
-**Repo:** `[link-here]`
+It features an interactive dashboard allowing real time monitoring, smart handling of irregular income, and automatic adjustment of late payments into next month’s plan.
+
+**Tools:** Microsoft Excel  
+**Preview:**  
+![Excel Project](https://github.com/Xupuruu/Xupuruu/raw/main/Screenshot%202025-06-26%20121226.png)  
+**Repo:** [View on GitHub](https://github.com/Xupuruu/Xupuruu)
 
 ---
 
 ### 🔹 **Project Title #2**
 **Description:**  
-A brief explanation of the business problem and results.
+Serenity Retail is a nationwide leading retail chain that offers a diverse range of products, they face a challenge to understand and target their customers with personalized marketing campaigns.
 
-**Tools:** Python / Excel / SQL  
-**Repo:** `[link-here]`
+**Tools:** Microsoft Power BI  
+**Preview:**  
+![Power BI Project](https://raw.githubusercontent.com/Xupuruu/Xupuruu/8ac699696ba670906220c1a5f375033fb33f6dfc/Screenshot%202024-09-22%20235354.png)
+  
+**Repo:** [View on GitHub](https://github.com/Xupuruu/Xupuruu)
 
 ---
 
