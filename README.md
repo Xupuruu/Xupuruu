@@ -7,7 +7,7 @@
 I am a **Data Analyst** who loves turning messy data into meaningful insights that drive smart decisions.  
 Passionate about **analytics, dashboard building, data storytelling, and continuous growth**,  
 I enjoy using data to create clarity, direction, and business value.  
-Always curious. Always learning. Always improving. 
+Always curious & Always learning.
 
 
 ## Skills & Expertise  
