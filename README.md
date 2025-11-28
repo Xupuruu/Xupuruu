@@ -3,22 +3,22 @@
 <h3 align="center">Data Analyst • BI Specialist • Financial Analyst</h3>
 
 
-## ✨ About Me  
+## About Me  
 I am a **Data Analyst** who loves turning messy data into meaningful insights that drive smart decisions.  
 Passionate about **analytics, dashboard building, data storytelling, and continuous growth**,  
 I enjoy using data to create clarity, direction, and business value.  
-Always curious. Always learning. Always improving. 🚀
+Always curious. Always learning. Always improving. 
 
 
-## 🧠 Skills & Expertise  
+## Skills & Expertise  
 
-### 🌐 **Data Analytics & Business Intelligence**
+### **Data Analytics & Business Intelligence**
 - Transforming raw datasets into actionable insights  
 - Creating interactive dashboards that support decision-making  
 - Identifying patterns, trends, and opportunities  
 
 
-### 🛠️ **Technical Tools I Use**
+### **Technical Tools I Use**
 <p align="left">
 
   <!-- Python -->
@@ -50,7 +50,7 @@ Always curious. Always learning. Always improving. 🚀
 - Advanced dashboard storytelling techniques  
 
 
-## 🚧 Projects Showcase  
+## Projects    
 
 ### 🔹 **Budget Tracker**
 **Description:**  
@@ -98,18 +98,18 @@ This analysis provides a comprehensive overview of the global gaming market from
 
 **Repo:** [View on GitHub](https://github.com/Xupuruu/Xupuruu)
 
-
 ## 📈 GitHub Analytics  
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xupuruu&theme=dark&show_icons=true" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xupuruu&theme=dark" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xupuruu&layout=compact&theme=dark" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=xupuruu&theme=dark&show_icons=true&hide_border=true&count_private=true" height="160" style="margin:10px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xupuruu&theme=dark&hide_border=true" height="160" style="margin:10px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xupuruu&layout=compact&theme=dark&hide_border=true" height="160" style="margin:10px"/>
 
 </div>
 
 
-## 💬 Let’s Connect  
+## Let’s Connect  
 <p align="left">
   <a href="https://xupuruu.github.io/dataprojects.github/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
   <a href="mailto:lemuchi.sopuru@gmail.com"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/></a>
